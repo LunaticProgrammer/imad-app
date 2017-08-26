@@ -1,9 +1,8 @@
 body {
-    font-family: sans-serif;
-    background-color: lightblue;
-    margin-top: 75px;
+  font-family: Helvetica;
+  padding: 2em;
+  background-color: whitesmoke;
 }
-
 
 h1 {
   font-size: 2.5em;
@@ -61,19 +60,3 @@ ul {
   background-color: #333333;
   color: whitesmoke;
 }
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
-}
-
