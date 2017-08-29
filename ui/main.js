@@ -1,7 +1,7 @@
 console.log('Loaded!');
 function main() {
   $('.skillset').hide();
-  $('.skillset').fadeIn(1000);
+  $('.skillset').fadeIn(100);
   
   $('.projects').hide();
   
